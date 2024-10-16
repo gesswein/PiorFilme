@@ -1,6 +1,6 @@
 ## Instruções
 - Para clonar o repositório
-> git clone https://github.com/gesswein/Desafio-Pior-Filme.git
+> git clone https://github.com/gesswein/PiorFilme.git
 - Para Instalar as dependências do projeto
 > npm install
 - Para executar os testes de integração
